@@ -7,3 +7,6 @@ Creating a new branch is quick and simple.
 and merge2.
 I'm working ...
 werewr
+clone
+clone2
+hjjgj
