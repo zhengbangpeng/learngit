@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 and merge2.
 I'm working ...
 clone
+clone2
